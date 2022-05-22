@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <JUCERPROJECT id="cqtdVH" name="sylw_EQ" projectType="audioplug" useAppConfig="0"
-              addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1">
+              addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" cppLanguageStandard="17">
   <MAINGROUP id="dps2bs" name="sylw_EQ">
     <GROUP id="{94512591-EB6E-35B6-117B-95E88093748E}" name="Source">
       <FILE id="IBcOxr" name="PluginProcessor.cpp" compile="1" resource="0"
